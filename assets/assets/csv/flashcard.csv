@@ -1,0 +1,78 @@
+word,correct_option,wrong_option_1,wrong_option_2,wrong_option_3,wrong_option_4
+cat,maanzar,maanzar,maanzar,maanzar,
+dog,kutra,kutra,kutra,kutra,
+He,To,Ti,Aamhi,Te,
+There,Tithe,Ithe,Aahe,Kasa,
+I,Me,Tu, Tula,Ho,
+Groom,Navara,Baba, Bhaachi, Aai Vadil,
+Grandmother,Ajji,Ajoba, Bhaacha, Baba,
+Daughter in law,Soon,Jaawai, Baba, Bhaachi,
+Son in law,Jaawai,Soon, Baba, Bhaachi,
+Grandmother,Ajji,Bhau, Soon, Saasara,
+Grandfather,Ajoba,Aai, Baiko, Bahin,
+Daughter,Mulgi,Sasu, Bhau, Aai,
+Son,Mulga,Babu, Sasara, Baiko,
+Orange,Narangi,Paandhra,Gulabi, Laal,
+White,Paandhra,Gulabi,Jaambala, Laal,
+Pink,Gulaabi,Paandhra, Naarangi, Laal,
+Brown,Taapkiri,Laal, Jaambla,Paandhra,
+Violet,Jaambla,laal,Paandhra,Neela,
+Red,Laal,Neela, Jaambla, Taapkiri,
+Divas,Day,Divas, Athawada, Raatra, Sandhyakaal
+Athavada,Week,Divas, Athawada, Raatra, Sandhyakaal
+late,ushira,option1, option2, option3,
+early,lavakar,option1, option2, option3,
+now,attaa,option1, option2, option3,
+aadi,before,option1, option2, option3,
+ghadi,clock,option1, option2, option3,
+nantar,after,option1, option2, option3,
+yesterday,kaal,kaal, sakaal, lavakar,
+morning,sakaal,kaal, sakaal, lavakar,
+early,lavakar,kaal, sakaal, lavakar,
+before,aadi,aadi, maasik, athavada, vel
+monthly,maasik,aadi, maasik, athavada, vel
+week,athavada,aadi, maasik, athavada, vel
+time,vel,aadi, maasik, athavada, vel
+season,ritu,ritu, hivala, thand. Garam,
+winter,hirvala,ritu, hivala, thand. Garam,
+sky,akash,damatt, akash, taapmaan, anandadaayi
+pleasant,anandadaayi,damatt, akash, taapmaan, anandadaayi
+rainbow,indradhanush,Indradhanush, Him, Chandra, Dhag
+snow,him,Indradhanush, Him, Chandra, Dhag
+moon,chandra,Indradhanush, Him, Chandra, Dhag
+temperature,taapmaan,Taapman, Vaara, Damatt, Chandra
+wind,vaara,Taapman, Vaara, Damatt, Chandra
+humid,damaat,Taapman, Vaara, Damatt, Chandra
+crossing,chowk,Chowk, Sthaanak, Raasta, Vimantal
+station,sthaanak,Chowk, Sthaanak, Raasta, Vimantal
+road,raasta,Chowk, Sthaanak, Raasta, Vimantal
+vehicle,vaahan,Naksha, Vaahan, Aasan, Gaadi
+boat,nauka,Naksha, Vaahan, Aasan, Gaadi
+road,raasta,Naksha, Vaahan, Aasan, Gaadi
+map,naksha,Naksha, vahatuk, vimaan, pul
+airport,vimantal,Naksha, vahatuk, vimaan, pul
+crossing,chowk,Naksha, vahatuk, vimaan, pul
+hunger,bhook,option1, option2, option3,
+spoon,chamcha,option1, option2, option3,
+thirst,taahan,option1, option2, option3,
+lentil,dal,Dal, anda, taat, chapati
+fish,mashe,Mashe, dal, chamcha, chavist
+curry,rassa,rassa, thikat, goad, kombdi
+chavist,delicious,option1, option2, option3,
+meeth,salt,option1, option2, option3,
+paani,water,option1, option2, option3,
+farsh,floor,Kholi, Bhint, Gallery, Farsh
+phatak,gate,Phatak, Bhint, Jhaadu, Balti
+baug,garden,Phatak, Baug, Farsh, Kulup
+kulup,lock,Phatak, Baug, Farsh, Kulup
+sampoorn,Whole,Sampoorn, Ardha, Poorna, Kami
+poorn,full,Poorn, Jaasta, Sampoorn, Pratyek
+jaasta,more,Jaasta, Kami, Ardha, Poorn
+barech,Many,Barech, Anek, Dar, Kami
+purese,enough,Purese, Thode, kaahi, kaahihi naahi
+anek,several,Anek, sarva, thode, barech
+avagadha,difficult,Naveen, avaghad, Juna, Sopa
+juna,old,Juna, ananda, dukhi, Naveen
+chhot,small,Chota, Dukhi, Ananda, Thand
+mota,big,Motha, chota, Ghan, Kurupa
+juna,old,Juna, sundar, Avaghad, Naveen
